@@ -18,7 +18,7 @@ The UI is designed with vibrant colors, smooth animations, and a friendly user e
 1. Choose your move by clicking on an empty square.  
 2. You are **X** and the AI is **O**.  
 3. First player to align 3 symbols (row, column, or diagonal) wins.  
-4. If the board fills without a winner → it’s a **draw**.  
+4. If the board fills without a winner → it’s a **draw** 
 
 ---
 
